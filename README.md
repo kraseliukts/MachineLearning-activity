@@ -4,7 +4,7 @@ Analazing the Corean dataset with Rented Bike information (2018).
 
 Data: https://raw.githubusercontent.com/obulygin/content/main/SeoulBike/seoul_bike_data.csv
 
-Описание данных:
+Data description:
 - Date - дата;
 - Rented Bike Count - сколько велосипедов было взято в прокат, целевая переменная;
 - Hour - час дня;
